@@ -1,0 +1,10 @@
+p {
+  color: red;
+  font-size: 120px;
+}
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
